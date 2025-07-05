@@ -1,0 +1,11 @@
+opencv-python
+torch
+torchvision
+ultralytics
+
+pandas
+matplotlib
+seaborn
+scikit-image
+
+pyqt5
